@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Description:
+ - This is a basic flutter application that generates random phases of a dice by pressing the button on it, This application can be used to play board games where one can utilizes the dice to play and generates a random face of a dice with no bias, fair and square.  
